@@ -1,16 +1,7 @@
-# app_pemrograman_mobile
+# Aplikasi Swalayan E-Shop
 
-A new Flutter project.
+Note: Kasih saja nama file codenya adalah "app_pemrograman_mobile", kalau tidak mau ada error.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projek Aplikasi ini dibangun menggunakan Flutter. Memiliki 3 API yang tertanam pada Login, Transaction, dan Fetch Transaction. Meski begitu, aplikasi ini masih membutuhkan pengembangan lebih lanjut jika ingin diperbaiki fungsi-fungsinya.
